@@ -64,6 +64,7 @@ ul li a:hover {
     text-align: center;
     font-size: 18px;
     transform: translate(-50%, -50%);
+    display: block ;
 }
 .title h1 {
     color: #F5F5DC;
@@ -71,11 +72,13 @@ ul li a:hover {
 }
 .button {
     position: absolute;
-    top: 85%;
+    top: 90%;
     left: 50%;
     text-align: center;
     font-size: 14px;
     transform: translate(-50%, -50%);
+    margin-bottom: 50px;
+    display: block;
 }
 .btn {
     border: 1px solid #F5F5DC;
@@ -110,6 +113,7 @@ bakgrund:hover {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    font-size: 14px;
 }
 .wiwen{
     margin-left: auto;
@@ -131,6 +135,7 @@ img {
 .bildtitel {
     margin-top: 20px;
     margin-bottom: 10px;
+    font-size: 16px;
 }
 .bildbeskrivning {
     margin-top: 20px;
@@ -144,6 +149,8 @@ img {
   text-align: center;
   padding: 3px;
   color: white;
+  display: block;
+  color: #808080 ; 
 }
    div.item {
     vertical-align: top;
