@@ -112,13 +112,13 @@ bakgrund:hover {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 30%;
     font-size: 14px;
 }
 .wiwen{
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 20%;
     margin-bottom: 25px;
 }
 .katalog{
@@ -135,6 +135,8 @@ img {
 .bildtitel {
     margin-top: 20px;
     margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
     font-size: 16px;
 }
 .bildbeskrivning {
